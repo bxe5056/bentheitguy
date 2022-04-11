@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/bentheitguy/static/css/main.c0fb843e.css",
-    "main.js": "/bentheitguy/static/js/main.4ce30fc7.js",
+    "main.css": "/bentheitguy/static/css/main.cecde99b.css",
+    "main.js": "/bentheitguy/static/js/main.ed5e594e.js",
     "static/js/787.9d9ea998.chunk.js": "/bentheitguy/static/js/787.9d9ea998.chunk.js",
+    "static/media/profile.png": "/bentheitguy/static/media/profile.f858504f6c33ff842ae6.png",
     "index.html": "/bentheitguy/index.html",
-    "main.c0fb843e.css.map": "/bentheitguy/static/css/main.c0fb843e.css.map",
-    "main.4ce30fc7.js.map": "/bentheitguy/static/js/main.4ce30fc7.js.map",
+    "main.cecde99b.css.map": "/bentheitguy/static/css/main.cecde99b.css.map",
+    "main.ed5e594e.js.map": "/bentheitguy/static/js/main.ed5e594e.js.map",
     "787.9d9ea998.chunk.js.map": "/bentheitguy/static/js/787.9d9ea998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0fb843e.css",
-    "static/js/main.4ce30fc7.js"
+    "static/css/main.cecde99b.css",
+    "static/js/main.ed5e594e.js"
   ]
 }
