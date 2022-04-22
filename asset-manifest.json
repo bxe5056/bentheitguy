@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bentheitguy/static/css/main.4c2a0634.css",
-    "main.js": "/bentheitguy/static/js/main.95c94951.js",
+    "main.js": "/bentheitguy/static/js/main.0229765b.js",
     "static/js/787.9d9ea998.chunk.js": "/bentheitguy/static/js/787.9d9ea998.chunk.js",
     "static/media/profile.png": "/bentheitguy/static/media/profile.f858504f6c33ff842ae6.png",
     "index.html": "/bentheitguy/index.html",
     "main.4c2a0634.css.map": "/bentheitguy/static/css/main.4c2a0634.css.map",
-    "main.95c94951.js.map": "/bentheitguy/static/js/main.95c94951.js.map",
+    "main.0229765b.js.map": "/bentheitguy/static/js/main.0229765b.js.map",
     "787.9d9ea998.chunk.js.map": "/bentheitguy/static/js/787.9d9ea998.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c2a0634.css",
-    "static/js/main.95c94951.js"
+    "static/js/main.0229765b.js"
   ]
 }
