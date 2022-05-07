@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bentheitguy/static/css/main.18a97628.css",
-    "main.js": "/bentheitguy/static/js/main.56bc4d2a.js",
+    "main.css": "/bentheitguy/static/css/main.e131da1d.css",
+    "main.js": "/bentheitguy/static/js/main.69e03317.js",
     "static/js/787.9d9ea998.chunk.js": "/bentheitguy/static/js/787.9d9ea998.chunk.js",
     "static/media/PXL-TeslaBear-1.jpg": "/bentheitguy/static/media/PXL-TeslaBear-1.7a9882b14e36213808cc.jpg",
     "static/media/profile.png": "/bentheitguy/static/media/profile.f858504f6c33ff842ae6.png",
     "index.html": "/bentheitguy/index.html",
-    "main.18a97628.css.map": "/bentheitguy/static/css/main.18a97628.css.map",
-    "main.56bc4d2a.js.map": "/bentheitguy/static/js/main.56bc4d2a.js.map",
+    "main.e131da1d.css.map": "/bentheitguy/static/css/main.e131da1d.css.map",
+    "main.69e03317.js.map": "/bentheitguy/static/js/main.69e03317.js.map",
     "787.9d9ea998.chunk.js.map": "/bentheitguy/static/js/787.9d9ea998.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18a97628.css",
-    "static/js/main.56bc4d2a.js"
+    "static/css/main.e131da1d.css",
+    "static/js/main.69e03317.js"
   ]
 }
